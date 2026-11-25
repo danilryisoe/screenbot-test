@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ScreenBot"
 include(":app")
+
