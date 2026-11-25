@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenBot</string>
+    <string name="accessibility_service_description">Служба выполнения жестов по сигналу бота.</string>
+</resources>
